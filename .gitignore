@@ -2,3 +2,7 @@
 *.pyc
 *.npy
 .idea
+*.out
+*.geany
+/.env*
+*egg-info
